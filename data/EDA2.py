@@ -264,7 +264,10 @@ plt.show()
 
 
 # In[ ]:
+df.shape
 
 
 
 
+
+# %%
